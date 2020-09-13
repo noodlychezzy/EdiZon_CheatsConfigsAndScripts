@@ -6,7 +6,7 @@ The Atmosphère cheat files get loaded by Atmosphère's `dmnt:cht` cheat module.
 
 If you want yours to be added, please send them to @WerWolv#1337 on Discord or create a Pull Request.
 
-Config files go into the `/EdiZon/editor` folder, Script files go into the `/EdiZon/editor/scripts` folder, libraries used by scripts go into the `/EdiZon/editor/scripts/lib` folder and cheats go into the respective `/atmosphere/titles/<titleID>/cheats` folders.
+Config files go into the `/EdiZon/editor` folder, Script files go into the `/EdiZon/editor/scripts` folder, libraries used by scripts go into the `/EdiZon/editor/scripts/lib` folder and cheats go into the respective `/atmosphere/contents/<titleID>/cheats` folders.
 
 ### A pre-packed version of all cheats and save editors can be found [here](https://api.edizon.werwolv.net/v3/build.zip).
 
